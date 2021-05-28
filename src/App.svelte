@@ -1,5 +1,5 @@
 <script>
-	let num = 123;
+	let num = 12;
 	function double(){
 		num *= 2;
 	}
